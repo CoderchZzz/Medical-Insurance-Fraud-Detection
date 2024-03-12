@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.8 (ICM_final_d)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.10.12 (sftp://work@172.18.185.82:22/home/work/.virtualenvs/MIFIM/bin/python)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.10.12 (sftp://work@172.18.21.112:22/home/work/.virtualenvs/MIFIM/bin/python)" project-jdk-type="Python SDK" />
 </project>
